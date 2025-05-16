@@ -5,7 +5,7 @@
 - 💻 I'm a Master's student in Computer Science at **Illinois Institute of Technology** and a passionate full-stack developer.
 - 🧠 I enjoy solving real-world problems using **.NET**, **C#**, **Flutter**, and **SQL**.
 - 🚀 Recently built an **AI-powered video summarizer**, a **scheduler desktop app**, and a **smartwatch alert system** for elderly care.
-- 🏎️ I also developed a **Formula 1-themed animated portfolio** — speed meets code!
+- 🏎️ I also developed a **Formula 1-themed animated portfolio**, speed meets code!
 
 ---
 
