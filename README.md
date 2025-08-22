@@ -43,4 +43,4 @@
 
 📫 **Let’s connect**:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Niture-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-niture)  
-📬 aniture@hawk.iit.edu
+📬 aniture@hawk.illinoistech.edu
