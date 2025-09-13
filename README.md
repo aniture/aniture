@@ -3,7 +3,7 @@
 ### I'm Aditya Niture
 
 - 💻 I'm a recently graduated Master's student in Computer Science from **Illinois Institute of Technology** and a passionate full-stack developer.
-- 🧠 I enjoy solving real-world problems using **.NET**, **C#**, **Flutter**, and **SQL**.
+- 🧠 I enjoy solving real-world problems using **Python**,**Java**,**.NET**, **C#**, **Flutter**, and **SQL**.
 - 🚀 Recently built an **AI-powered news summarizer**, a **scheduler desktop app**, and a **smartwatch alert system** for elderly care.
 - 🏎️ I also developed a **Formula 1-themed animated portfolio**, speed meets code!
 
