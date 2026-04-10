@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2026-04-09",
+    "additions": 1435,
+    "deletions": 180,
+    "net": 1255,
+    "prs": [
+      {
+        "repo": "Benmore-Studio/Gladys",
+        "pr": 14,
+        "title": "Epic 14: Legal & Compliance \u2014 Privacy, Terms, Disclaimers, Trust Labels",
+        "additions": 522,
+        "deletions": 2
+      },
+      {
+        "repo": "Benmore-Studio/Gladys",
+        "pr": 13,
+        "title": "Epic 12: Testing, Quality & Client Value Quick Wins",
+        "additions": 913,
+        "deletions": 178
+      }
+    ]
+  }
+]
